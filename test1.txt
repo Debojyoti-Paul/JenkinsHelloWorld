@@ -1,0 +1,1 @@
+This is for Delivery Pipeline trigger via Jenkins GitHub integration.
